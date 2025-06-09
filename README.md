@@ -22,6 +22,6 @@ This repository is updated regularly with short, practical cybersecurity tips th
 - Awareness & hygiene
 
 ## 💬 Connect
-Want to suggest a tip or collaborate? Reach me on [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sunddra-paandian-55887720a/)).
+Want to suggest a tip or collaborate? Reach me on [LinkedIn]([https://www.linkedin.com/in/sunddra-paandian-55887720a/]).
 
 Happy Securing! 🧑‍💻🔐

@@ -1,4 +1,4 @@
-# 🛡️ Sunddra Paandian – Cybersecurity & Academic Portfolio
+# 🛡️  Academic Portfolio & Cybersecurity
 
 Welcome! This repository is a showcase of my **academic journey** and **daily cybersecurity learning** as a student of Computer Networks and Security and an IT Security Operation Engineer at Etiqa.
 

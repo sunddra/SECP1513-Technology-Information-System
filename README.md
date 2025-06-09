@@ -16,7 +16,7 @@ Contains coursework and reflection for the subject **Technology and Information 
 - 🎨 **Design Thinking Projects** (Low Fidelity Prototype)
 - 💭 **Personal Reflections** for each task and the overall course
 
-📂 File: [`Tis Assignments Reflections.md`](https://github.com/sunddra/SECP1513-Technology-Information-System)
+📂 File: [`TIS Portfolio`](https://github.com/sunddra/SECP1513-Technology-Information-System)
 
 ### 🔐 Cybersecurity Learning Branch: `daily-cybersecurity-tips`
 

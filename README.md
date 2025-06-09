@@ -30,7 +30,7 @@ This branch contains my **Cybersecurity tips** covering foundational practices a
 - Software updates
 - Firewalls & SIEM basics
 
-👉 Visit branch: [`daily-cybersecurity-tips`](https://github.com/your-username/your-repo/tree/daily-cybersecurity-tips)
+👉 Visit branch: [`daily-cybersecurity-tips`](https://github.com/sunddra/SECP1513-Technology-Information-System/tree/daily-cybersecurity-tips)
 
 ---
 
@@ -45,8 +45,8 @@ This branch contains my **Cybersecurity tips** covering foundational practices a
 
 ## 📬 Contact
 
-- 📧 Email: sunddra@example.com  
-- 💼 LinkedIn: [linkedin.com/in/sunddra-paandian](https://linkedin.com/in/sunddra-paandian)
+- 📧 Email: sunddra09@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/sunddra-paandian](https://www.linkedin.com/in/sunddra-paandian-55887720a/)
 
 ---
 

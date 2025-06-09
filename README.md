@@ -1,6 +1,6 @@
 # 🛡️  Academic Portfolio & Cybersecurity
 
-Welcome! This repository is a showcase of my **academic journey** and **daily cybersecurity learning** as a student of Computer Networks and Security and an IT Security Operation Engineer at Etiqa.
+Welcome! This repository is a showcase of my **Academic journey** and **Cybersecurity learning** as a student of Computer Networks and Security and an IT Security Operation Engineer at Etiqa.
 
 ---
 

@@ -8,8 +8,8 @@ This repository is updated regularly with short, practical cybersecurity tips th
 🔐 Stay tuned for daily tips in the `/tips` folder or check the most recent ones below.
 
 ## 📂 Structure
-- `/tips/YYYY-MM-DD.md`: Daily tips stored by date
-- `README.md`: Overview and latest updates
+- Daily tips stored by date
+- Overview and latest updates
 
 ## 🧠 Topics Covered
 - Firewall management

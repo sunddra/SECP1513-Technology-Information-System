@@ -30,7 +30,7 @@ This branch contains my **Cybersecurity tips** covering foundational practices a
 - Software updates
 - Firewalls & SIEM basics
 
-👉 Visit branch: [`daily-cybersecurity-tips`](https://github.com/sunddra/SECP1513-Technology-Information-System/tree/daily-cybersecurity-tips)
+👉 Visit branch: [`Cybersecurity-tips`](https://github.com/sunddra/SECP1513-Technology-Information-System/tree/daily-cybersecurity-tips)
 
 ---
 
